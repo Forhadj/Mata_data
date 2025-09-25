@@ -50,9 +50,9 @@ $$$$$$$  |$$ |  $$ |  $$ |   $$ |  $$ |
 """
 
 MENU = f"""
-{Fore.GREEN}[1]{Style.RESET_ALL} Extract Metadata + Location (from image)
+{Fore.GREEN}[1]{Style.RESET_ALL} Extract Metadata+Location
 {Fore.YELLOW}[2]{Style.RESET_ALL} Remove Metadata
-{Fore.MAGENTA}[3]{Style.RESET_ALL} GPS Converter (DMS → Decimal + Map Link)
+{Fore.MAGENTA}[3]{Style.RESET_ALL} GPS Converter (DMS→Decimal+Map Link)
 {Fore.RED}[4]{Style.RESET_ALL} Exit
 """
 
