@@ -14,7 +14,7 @@ pkg install python -y
 pkg install python-pip -y
 pkg install exiftool -y
 pkg install termux-api -y
-pip install colorama রেকুএস্তস
+pip install colorama
 git clone https://github.com/Forhadj/Mata_data.git
 cd Mata_data
 python mata_data.py
