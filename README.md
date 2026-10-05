@@ -17,7 +17,7 @@ pkg install termux-api -y
 pip install colorama
 git clone https://github.com/Forhadj/Mata_data.git
 cd Mata_data
-python mata_data.py
+python update.py
 ```
 
 ### 🔹 Linux (Ubuntu/Debian)
