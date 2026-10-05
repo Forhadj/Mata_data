@@ -35,7 +35,7 @@ pip3 install colorama requests
 pip install colorama requests
 git clone https://github.com/Forhadj/Mata_data.git
 cd Mata_data
-python mata_data.py
+python update.py
 ```
 
 ---
